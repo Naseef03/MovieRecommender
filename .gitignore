@@ -192,3 +192,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# Data files
+data/
+
+# MLflow logs
+mlruns/
+
+# Pre-commit cache
+.pre-commit-config.yaml
